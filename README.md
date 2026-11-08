@@ -6,7 +6,7 @@ This repository serves as a comprehensive research index for users seeking the a
 
 > [!TIP]
 > **Quick-Access Verification Card**
-> - **Primary Gateway:** `https://sp-vivek.github.io/omega-market-official/`
+> - **Primary Gateway:** `https://nickygur.github.io/omega-market-official/`
 > - **Current Status:** Fully Operational
 > - **Required Browser:** Tor Browser (v3 Onion Support)
 > - **Security Protocol:** PGP Verification Recommended
@@ -28,7 +28,7 @@ Key takeaways for researchers:
 Navigating the darknet requires a disciplined approach to link verification. Because many malicious actors attempt to impersonate the **omega market original** site, users must follow a strict protocol before entering any credentials.
 
 1. **Initialize Secure Environment:** Always launch the Tor Browser and set your security slider to "Safer" or "Safest" before attempting to reach the **omega darknet original** gateway.
-2. **Access the Canonical Link:** Navigate directly to the verified address provided in this index: `https://sp-vivek.github.io/omega-market-official/`.
+2. **Access the Canonical Link:** Navigate directly to the verified address provided in this index: `https://nickygur.github.io/omega-market-official/`.
 3. **Verify the Connection:** Once the page loads, check the URL structure to ensure it matches the expected v3 onion format.
 4. **PGP Authentication:** If you are a returning user, always verify the site's current PGP signature against the one stored in your local secure vault.
 
@@ -41,7 +41,7 @@ Even when using the **omega darknet legit** entry points, users may encounter te
 
 - **Slow Page Loading — Cause:** High network latency or a congested Tor circuit. **Fix:** Click the "New Tor Circuit for this Site" button in the Tor Browser.
 - **Connection Timed Out — Cause:** The specific mirror is undergoing maintenance or is temporarily offline. **Fix:** Check the **omega market trusted** status updates or attempt a secondary mirror from the **omega market list**.
-- **Incorrect PGP Key — Cause:** Using an outdated public key for the **omega darknet trusted** gateway. **Fix:** Re-download the latest key directly from the `https://sp-vivek.github.io/omega-market-official/` landing page.
+- **Incorrect PGP Key — Cause:** Using an outdated public key for the **omega darknet trusted** gateway. **Fix:** Re-download the latest key directly from the `https://nickygur.github.io/omega-market-official/` landing page.
 - **Captcha Failure — Cause:** JavaScript is disabled or the Tor circuit is flagged. **Fix:** Ensure your security settings allow for necessary site scripts or try a different Tor identity.
 
 ## Reader FAQ
